@@ -434,7 +434,7 @@ Have fun!
 
 ## Contributing
 
-Of course, if you'd like to contribute back to the proxy prototype (maybe to add the missing resources), then by all means! See the uFincs [Contributor Guidelines](TODO) for the overall rules.
+Of course, if you'd like to contribute back to the proxy prototype (maybe to add the missing resources), then by all means! See the uFincs [Contributor Guidelines](https://github.com/uFincs/uFincs/blob/master/CONTRIBUTING.md) for the overall rules.
 
 ## Authors
 
